@@ -21,7 +21,10 @@ body {
 main {
   padding: 1rem;
 }
-
+.card{
+  height: 17rem;
+  padding:5%;
+}
 h1 {
   font-size: 1.5rem;
   font-weight: 100;
@@ -38,7 +41,7 @@ h2 {
   border-top: hsl(0, 78%, 62%);
   border-width: 3px;
   border-style: solid;
-  margin-top: 20%;
+  margin-top: 10%;
 
 }
 .card3 {
