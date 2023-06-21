@@ -19,5 +19,5 @@ This is a solution to the [Four card feature section challenge on Frontend Mento
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yagomez99](https://www.frontendmentor.io/profile/agomez99)
+- Website - [https://austinegomez.com/](https://austinegomez.com/)
+- Frontend Mentor - [@agomez99](https://www.frontendmentor.io/profile/agomez99)
